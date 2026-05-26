@@ -1,6 +1,6 @@
 # Pritam Kumar Portfolio
 
-Live Demo: https://portfolio-beta-opal-l4.vercel.app/
+Live Demo: https://portfolio-beta-opal-14.vercel.app/
 
 A modern developer portfolio built using Next.js, React, Tailwind CSS, and TypeScript.  
 This portfolio showcases my skills, projects, education, and experience in AI/ML and Full-Stack Development.
@@ -31,11 +31,7 @@ This portfolio showcases my skills, projects, education, and experience in AI/ML
 
 ---
 
-## 📸 Preview
 
-![Portfolio Preview](https://portfolio-beta-opal-l4.vercel.app/)
-
----
 
 ## 🛠️ Installation & Setup
 
@@ -83,7 +79,7 @@ npm run build
 
 Deployed on Vercel:
 
-https://portfolio-beta-opal-l4.vercel.app/
+https://portfolio-beta-opal-14.vercel.app/
 
 ---
 
